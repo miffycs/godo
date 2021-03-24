@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/godo/static/css/main.0acc6633.chunk.css",
-    "main.js": "/godo/static/js/main.f6312472.chunk.js",
-    "main.js.map": "/godo/static/js/main.f6312472.chunk.js.map",
+    "main.css": "/godo/static/css/main.bed6aea4.chunk.css",
+    "main.js": "/godo/static/js/main.c0aab6fd.chunk.js",
+    "main.js.map": "/godo/static/js/main.c0aab6fd.chunk.js.map",
     "runtime-main.js": "/godo/static/js/runtime-main.2d136007.js",
     "runtime-main.js.map": "/godo/static/js/runtime-main.2d136007.js.map",
     "static/js/2.b3514835.chunk.js": "/godo/static/js/2.b3514835.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2ec19d74.chunk.js": "/godo/static/js/3.2ec19d74.chunk.js",
     "static/js/3.2ec19d74.chunk.js.map": "/godo/static/js/3.2ec19d74.chunk.js.map",
     "index.html": "/godo/index.html",
-    "static/css/main.0acc6633.chunk.css.map": "/godo/static/css/main.0acc6633.chunk.css.map",
+    "static/css/main.bed6aea4.chunk.css.map": "/godo/static/css/main.bed6aea4.chunk.css.map",
     "static/js/2.b3514835.chunk.js.LICENSE.txt": "/godo/static/js/2.b3514835.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d136007.js",
     "static/js/2.b3514835.chunk.js",
-    "static/css/main.0acc6633.chunk.css",
-    "static/js/main.f6312472.chunk.js"
+    "static/css/main.bed6aea4.chunk.css",
+    "static/js/main.c0aab6fd.chunk.js"
   ]
 }
