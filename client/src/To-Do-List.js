@@ -14,7 +14,7 @@ class ToDoList extends Component {
     };
   }
 
-  componentDidMount() {
+  componentDidMount = () => {
     this.getTask();
   }
 
@@ -148,8 +148,10 @@ class ToDoList extends Component {
     return (
       <div>
         <div className="row">
-          <Header className="header" as="h2">
-            TO DO LIST
+          <Header className="header" as="a" style={{fontFamily: "Permanent Marker, sans-serif", fontSize: "50px"}}>
+            <fff style={{ paddingRight: "300px" }}>
+              <c style={{ color: "#A9A9A9" }}>GO </c>Do List
+            </fff>{" "}
           </Header>
         </div>
         <div className="row">
